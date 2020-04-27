@@ -1,0 +1,20 @@
+.navbar {
+  background-color: lightblue;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.navbar a {
+  padding: 5px;
+  display: inline-block;
+  color: navy;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: mintcream;
+}
+
+.navbar a.active {
+  color: lightcoral;
+}

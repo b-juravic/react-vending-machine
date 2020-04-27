@@ -1,0 +1,11 @@
+.vending-machine {
+  background-image: url(https://www.amequipmentsales.com/wp-content/uploads/2015/12/usi3538.png);
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-size: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
